@@ -101,54 +101,54 @@ Core Features:
        Team task assignment (if multi-user)
 
 3. 🧮 Calculator (Tkinter Desktop Application)
-A feature-rich desktop calculator with intuitive graphical interface.
-
-Core Features:
-
-Arithmetic Operations:
-
-Basic: Addition, Subtraction, Multiplication, Division
-
-Advanced: Percentage, Square Root, Exponentiation
-
-Memory functions: MC, MR, M+, M-
-
-User Interface:
-
-Clean, modern GUI with Tkinter widgets
-
-Button grid layout following standard calculator design
-
-Display screen showing current input and results
-
-Keyboard shortcuts for all operations
-
-Functionality:
-
-Decimal point operations
-
-Clear (C) and All Clear (AC) functions
-
-Backspace for error correction
-
-Error handling for division by zero
-
-Continuous calculation capability
-
-Technical Implementation:
-
-Pure Python with Tkinter for GUI
-
-Object-oriented design with Calculator class
-
-Event-driven programming model
-
-Mathematical expression evaluation
-
-Use Cases:
-
-Quick calculations without web dependency
-
-Educational tool for learning Python GUI
-
-Reference implementation for Tkinter applications
+       A feature-rich desktop calculator with intuitive graphical interface.
+       
+       Core Features:
+       
+       Arithmetic Operations:
+       
+       Basic: Addition, Subtraction, Multiplication, Division
+       
+       Advanced: Percentage, Square Root, Exponentiation
+       
+       Memory functions: MC, MR, M+, M-
+       
+       User Interface:
+       
+       Clean, modern GUI with Tkinter widgets
+       
+       Button grid layout following standard calculator design
+       
+       Display screen showing current input and results
+       
+       Keyboard shortcuts for all operations
+       
+       Functionality:
+       
+       Decimal point operations
+       
+       Clear (C) and All Clear (AC) functions
+       
+       Backspace for error correction
+       
+       Error handling for division by zero
+       
+       Continuous calculation capability
+       
+       Technical Implementation:
+       
+       Pure Python with Tkinter for GUI
+       
+       Object-oriented design with Calculator class
+       
+       Event-driven programming model
+       
+       Mathematical expression evaluation
+       
+       Use Cases:
+       
+       Quick calculations without web dependency
+       
+       Educational tool for learning Python GUI
+       
+       Reference implementation for Tkinter applications
